@@ -10,8 +10,5 @@
     "16": "gtug_icon-16.png",
     "48": "gtug_icon-48.png",
     "128": "gtugph.png"
-  },
-  "permissions": [
-    "http://api.flickr.com/"
-  ]
+  }
 }
