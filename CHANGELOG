@@ -1,9 +1,16 @@
 GTUG Philippines Chrome Extension
-Version 1.0
+Version 1.1
 
 0.1		Developed the initial working version
 
 1.0		Separated blog feeds, calendar feeds and links
 		Updating to HTML5
 		Published the extension in the Chrome Web Store
-		
+
+1.1		Added 128x128 logo
+		Added the CHANGELOG file
+		Updated README file (Added the Chrome Web Store page)
+		Added "About" in the navigation links (which links to the Chrome Web Store URL) 
+		Updating the links page (text and links)
+		Updating the navigation links (text, HTML code and styling)
+		Updating the extension's version to 1.1		
