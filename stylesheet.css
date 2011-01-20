@@ -3,13 +3,15 @@ body {
 	text-align:center;
 }
 
-div.header {
-	background-color: #000000; 
-	color: #FFFFFF; 
-	font-family: sans-serif; 
+div.nav {
+	background-color: #E0E0E0;
 	font-size: 12pt; 
 	font-weight: bold; 
 	font-style: normal; 
+	text-align:left;
+	color: #000000; 
+	border:solid black 1px;
 	padding: 3px; 
-	border-color: #000000;
+	padding-left: 35px;
 }
+	
