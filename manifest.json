@@ -1,14 +1,14 @@
 {
   "name": "GTUG Philippines Chrome Extension",
-  "version": "1.2",
+  "version": "1.3",
   "description": "Google Chrome Extension for the GTUG Philippines community.",
   "browser_action": {
-    "default_icon": "gtug_icon-16.png",
+    "default_icon": "images/gtug_icon-16.png",
     "popup": "links.html"
   },
   "icons": {
-    "16": "gtug_icon-16.png",
-    "48": "gtug_icon-48.png",
-    "128": "gtugph.png"
+    "16": "images/gtug_icon-16.png",
+    "48": "images/gtug_icon-48.png",
+    "128": "images/gtugph.png"
   }
 }

@@ -1,5 +1,5 @@
 GTUG Philippines Chrome Extension
-Version 1.2
+Version 1.3
 
 0.1		
 	Developed the initial working version
@@ -24,3 +24,8 @@ Version 1.2
 	Updating the links' styling
 	Making the "Tweets" header a link.
 	Added the Twitter feeds of @gtugphilippines.
+
+1.3
+	Adding avatars in the Twitter widget
+	Moving images in a separate directory
+	Added LinkedIn Group URL
