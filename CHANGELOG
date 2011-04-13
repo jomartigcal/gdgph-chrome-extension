@@ -1,5 +1,5 @@
 GTUG Philippines Chrome Extension
-Version 1.3
+Version 1.4
 
 0.1		
 	Developed the initial working version
@@ -29,3 +29,8 @@ Version 1.3
 	Adding avatars in the Twitter widget
 	Moving images in a separate directory
 	Added LinkedIn Group URL
+
+1.4
+	Added mailing list feeds
+	Updating the Discussion links
+	
