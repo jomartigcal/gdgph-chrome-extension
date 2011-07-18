@@ -16,7 +16,6 @@ Version 1.4
 	Added "About" in the navigation links (which links to the Chrome Web Store URL) 
 	Updating the links page (text and links)
 	Updating the navigation links (text, HTML code and styling)
-	Updating the extension's version to 1.1		
 
 1.2
 	Updated HTML pages to look for stylesheet.css for the styling
@@ -33,4 +32,8 @@ Version 1.4
 1.4
 	Added mailing list feeds
 	Updating the Discussion links
-	
+
+1.5
+	Removing the unused index.html file
+	Updating the list of hyperlinks in the links.html file
+	Adding "See more" links
