@@ -22,4 +22,8 @@ a:link {
 a:hover {
 	text-decoration: underline;
 }
+
+div.seemore {
+	text-align:right;
+}
 	
