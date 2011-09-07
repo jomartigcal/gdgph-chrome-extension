@@ -9,6 +9,19 @@
    <meta name="description" content="Google Chrome Extension for the GTUG Philippines community." />
    
    <link rel="stylesheet" href="stylesheet.css" />
+   
+   <style type="text/css">
+   		div.header {
+   			background-color: #000000; 
+   			color: #FFFFFF; 
+   			font-family: sans-serif; 
+   			font-size: 12pt; 
+   			font-weight: bold; 
+   			font-style: normal; 
+   			text-align:left;
+   			padding: 3px; 
+   		}
+   </style>
 </head>
 
 <body>
@@ -29,14 +42,17 @@
 		<a href="http://chrome.google.com/webstore/detail/pbpopomlbomjpbmpfigaogeodiemmjbm"  target="_blank">About</a> 
 	</div>
 	
-	<div id="calendarfeed" style="width:300px;"><br />
-		<!--
-		GTUG Philippines Calendar
-		// Created with FeedSweep Widget feed control v5.0.1.0
-		// http://www.FeedSweep.com
- 		-->
-		<script type="text/javascript" src="http://www.feedsweep.com/Products/FeedSweep/Producer.aspx?feeds=http%3a%2f%2fwww.google.com%2fcalendar%2ffeeds%2ffaif3m7ctbqvq0tc0bbkt7fqbc%2540group.calendar.google.com%2fpublic%2fbasic&amp;title=GTUG+Philippines+Calendar&amp;maxoutput=5&amp;charlimit=300&amp;datesort=descending&amp;datetimeformat=MMMM+d%2c+yyyy&amp;cat=12&amp;width=285&amp;includexmlbutton=false&amp;backgroundcolor=%23F0F0F0&amp;linecolor=%23000000&amp;headercolor=%23FFFFFF&amp;titlecolor=%230000FF&amp;textcolor=%23000000&amp;datecolor=%23008000&amp;key=2sn55Nqk9kWaVq_1-rzQ7g&amp;ver=5.0.1.0"></script>
-		<!-- FeedSweep end -->
+	<br />
+	
+	<div style="border:solid black 1px;text-align:justify;">
+		<div class="header">GTUG Philippines Events</div>
+		<div id="links" style="width:300px;text-align:left">&nbsp;</div>
+		<div style="text-align:justify;margin-left:5%; margin-right:5%">
+			<script type="text/javascript" src="http://www.tanjabaumann.com/feed/feed2js.php?src=http%3A%2F%2Fwww.google.com%2Fcalendar%2Ffeeds%2Ffaif3m7ctbqvq0tc0bbkt7fqbc%2540group.calendar.google.com%2Fpublic%2Fbasic&num=5&targ=y&utf=y&html=a"></script>
+			<noscript>
+				<a href="http://www.tanjabaumann.com/feed/feed2js.php?src=http%3A%2F%2Fwww.google.com%2Fcalendar%2Ffeeds%2Ffaif3m7ctbqvq0tc0bbkt7fqbc%2540group.calendar.google.com%2Fpublic%2Fbasic&num=5&targ=y&utf=y&html=y">View RSS feed</a>
+			</noscript>
+		</div>
 	</div>
 	
 	<div class="seemore">See more <a href="https://www.google.com/calendar/embed?src=faif3m7ctbqvq0tc0bbkt7fqbc%40group.calendar.google.com&ctz=Asia/Manila" target="_blank">here</a>.</div>
