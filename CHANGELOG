@@ -1,13 +1,26 @@
 GTUG Philippines Chrome Extension
 Version 1.5
 
-0.1		
-	Developed the initial working version
+1.5
+	Removing the unused index.html file
+	Updating the list of hyperlinks in the links.html file
+	Adding "See more" links
 
-1.0
-	Separated blog feeds, calendar feeds and links
-	Updating to HTML5
-	Published the extension in the Chrome Web Store
+1.4
+	Added mailing list feeds
+	Updating the Discussion links
+	
+1.3
+	Adding avatars in the Twitter widget
+	Moving images in a separate directory
+	Added LinkedIn Group URL
+
+1.2
+	Updated HTML pages to look for stylesheet.css for the styling
+	Updated CSS styling in the stylesheet.css file
+	Updating the links' styling
+	Making the "Tweets" header a link.
+	Added the Twitter feeds of @gtugphilippines.
 
 1.1	
 	Added 128x128 logo
@@ -17,23 +30,10 @@ Version 1.5
 	Updating the links page (text and links)
 	Updating the navigation links (text, HTML code and styling)
 
-1.2
-	Updated HTML pages to look for stylesheet.css for the styling
-	Updated CSS styling in the stylesheet.css file
-	Updating the links' styling
-	Making the "Tweets" header a link.
-	Added the Twitter feeds of @gtugphilippines.
+1.0
+	Separated blog feeds, calendar feeds and links
+	Updating to HTML5
+	Published the extension in the Chrome Web Store
 
-1.3
-	Adding avatars in the Twitter widget
-	Moving images in a separate directory
-	Added LinkedIn Group URL
-
-1.4
-	Added mailing list feeds
-	Updating the Discussion links
-
-1.5
-	Removing the unused index.html file
-	Updating the list of hyperlinks in the links.html file
-	Adding "See more" links
+0.1		
+	Developed the initial working version
