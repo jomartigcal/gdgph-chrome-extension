@@ -1,5 +1,11 @@
 GTUG Philippines Chrome Extension
-Version 1.5
+Version 1.6
+
+1.6
+	Making the calendar feeds more presentable and understandable
+	Updating the about link to point to a page instead of the Chrome Web Store page
+	Making an about page containing name, version and developer of the extension
+	Reversing the order of changes in the changelog file.
 
 1.5
 	Removing the unused index.html file
