@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "GDG Philippines Chrome Extension",
-  "version": "2.0",
+  "version": "2.0.1",
   "description": "Google Chrome Extension for the GDG Philippines community.",
   "browser_action": {
     "default_icon": "images/gdg.png",
@@ -10,7 +10,6 @@
   },
   "icons": {
     "16": "images/gdg-16.png",
-    "48": "images/gdg-48.png",
-    "128": "images/GDG-Philippines.jpg"
+    "48": "images/gdg-48.png"
   }
 }
