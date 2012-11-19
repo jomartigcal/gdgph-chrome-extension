@@ -11,8 +11,8 @@ div.nav {
 	text-align:left;
 	color: #000000; 
 	border:solid black 1px;
-	padding: 3px; 
-	padding-left: 35px;
+	padding: 5px; /*dating 3*/
+/* 	padding-left: 35px; */
 }
 
 a:link {

@@ -6,7 +6,7 @@
   "browser_action": {
     "default_icon": "images/gdg.png",
     "default_title": "GDG Philippines Chrome Extension",
-    "default_popup": "index.html"
+    "default_popup": "links.html"
   },
   "icons": {
     "16": "images/gdg-16.png",
