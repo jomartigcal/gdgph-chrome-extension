@@ -1,6 +1,13 @@
 GDG Philippines Chrome Extension
 Version 2.1
 
+2.2
+	Replacing blog feeds with iframe embed of mobile version of the blog
+	Replacing links embed with actual list of links
+	Replacing about embed with actual about text
+	Adding videos/YouTube Channel embed
+	Removing news, events, and discussions (for now)
+	
 2.1
 	Changing link to the Facebook group with a link to the Facebook Page
 	Redesigning navigation section
