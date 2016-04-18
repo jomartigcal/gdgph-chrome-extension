@@ -1,5 +1,14 @@
 GDG Philippines Chrome Extension
-Version 2.1
+Version 3.0
+============================
+
+3.0
+	Updating icon/logo of GDG and GDG Philippines
+	Reorganizing files: moving into folder, removing unused images
+	Updating links and contact info
+
+2.3
+	Updating contents and removing unused files
 
 2.2
 	Replacing blog feeds with iframe embed of mobile version of the blog
