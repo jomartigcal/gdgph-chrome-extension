@@ -11,5 +11,9 @@
   "icons": {
     "16": "images/gdg-16.png",
     "48": "images/gdg-48.png"
-  }
+  },
+  "permissions": [
+    "https://api.meetup.com",
+    "https://cors-anywhere.herokuapp.com"
+  ]
 }
