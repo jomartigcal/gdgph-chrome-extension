@@ -13,7 +13,6 @@
     "48": "images/gdg-48.png"
   },
   "permissions": [
-    "https://api.meetup.com/",
-    "https://cors-anywhere.herokuapp.com/"
+    "https://api.meetup.com/"
   ]
 }
