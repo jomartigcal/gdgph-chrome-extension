@@ -10,7 +10,8 @@
   },
   "icons": {
     "16": "images/gdg-16.png",
-    "48": "images/gdg-48.png"
+    "48": "images/gdg-48.png",
+    "128": "images/gdg-128.png"
   },
   "permissions": [
     "https://api.meetup.com/"
